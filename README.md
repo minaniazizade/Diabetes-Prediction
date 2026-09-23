@@ -1,5 +1,3 @@
-# Diabetes-Prediction
-
 # Diabetes Prediction using Machine Learning 🩺
 
 ## Overview
@@ -50,11 +48,12 @@ Models were evaluated using:
 
 ### Results
 ---
-![]()
+![](https://github.com/minaniazizade/Diabetes-Prediction/blob/main/%D8%AA%D8%B5%D9%88%DB%8C%D8%B1%20%D8%B5%D9%81%D8%AD%D9%87%202026-09-23%20182356.png)
 
 ---
-![]()
 
+---
+![](https://github.com/minaniazizade/Diabetes-Prediction/blob/main/%D8%AA%D8%B5%D9%88%DB%8C%D8%B1%20%D8%B5%D9%81%D8%AD%D9%87%202026-09-23%20180652.png)
 ---
 
 ## Best Model
