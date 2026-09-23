@@ -8,16 +8,7 @@ Several ML models were trained and evaluated to find the best-performing algorit
 ---
 
 ## Dataset
-The dataset contains medical information of patients, including features such as:
-
-- Glucose level
-- Blood pressure
-- BMI
-- Age
-- Insulin
-- Pregnancies
-- Skin thickness
-- Diabetes pedigree function
+The dataset contains medical information of patients.
 
 The target variable indicates whether the patient has diabetes or not.
 
