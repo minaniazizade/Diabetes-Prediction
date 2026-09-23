@@ -21,6 +21,8 @@ The dataset contains medical information of patients, including features such as
 
 The target variable indicates whether the patient has diabetes or not.
 
+link= (https://www.kaggle.com/competitions/playground-series-s5e12/data)
+
 ---
 
 ## Machine Learning Algorithms Used
